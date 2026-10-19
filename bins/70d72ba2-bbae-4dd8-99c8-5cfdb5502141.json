@@ -1,3 +1,264 @@
 {
-  "a": "b"
+  "Monday": [
+    {
+      "start": "08:05",
+      "end": "08:50",
+      "subject": "Politik",
+      "room": "126",
+      "kind": null
+    },
+    {
+      "start": "08:50",
+      "end": "09:35",
+      "subject": "Französisch",
+      "room": "126",
+      "kind": null
+    },
+    {
+      "start": "09:50",
+      "end": "10:35",
+      "subject": "Pause",
+      "room": "",
+      "kind": null
+    },
+    {
+      "start": "10:35",
+      "end": "11:20",
+      "subject": "Italienisch",
+      "room": "126",
+      "kind": "cancelled"
+    },
+    {
+      "start": "11:35",
+      "end": "12:15",
+      "subject": "Italienisch",
+      "room": "126",
+      "kind": null
+    },
+    {
+      "start": "12:15",
+      "end": "13:00",
+      "subject": "Geografie",
+      "room": "126",
+      "kind": null
+    }
+  ],
+  "Tuesday": [
+    {
+      "start": "08:05",
+      "end": "08:50",
+      "subject": "Wirtschaft",
+      "room": "126",
+      "kind": null
+    },
+    {
+      "start": "08:50",
+      "end": "09:35",
+      "subject": "Mathematik",
+      "room": "126",
+      "kind": null
+    },
+    {
+      "start": "09:50",
+      "end": "10:35",
+      "subject": "Englisch",
+      "room": "126",
+      "kind": null
+    },
+    {
+      "start": "10:35",
+      "end": "11:20",
+      "subject": "Englisch",
+      "room": "126",
+      "kind": null
+    },
+    {
+      "start": "11:35",
+      "end": "12:15",
+      "subject": "Kunst",
+      "room": "K2",
+      "kind": null
+    },
+    {
+      "start": "12:15",
+      "end": "13:00",
+      "subject": "Kunst",
+      "room": "K2",
+      "kind": null
+    },
+    {
+      "start": "13:00",
+      "end": "13:45",
+      "subject": "Pause",
+      "room": "",
+      "kind": null
+    },
+    {
+      "start": "13:45",
+      "end": "14:30",
+      "subject": "Pause",
+      "room": "",
+      "kind": null
+    },
+    {
+      "start": "14:30",
+      "end": "15:15",
+      "subject": "P-Seminar",
+      "room": "C1",
+      "kind": null
+    },
+    {
+      "start": "15:15",
+      "end": "16:00",
+      "subject": "P-Seminar",
+      "room": "C1",
+      "kind": null
+    }
+  ],
+  "Wednesday": [
+    {
+      "start": "08:05",
+      "end": "08:50",
+      "subject": "Sport",
+      "room": "TH1",
+      "kind": null
+    },
+    {
+      "start": "08:50",
+      "end": "09:35",
+      "subject": "Sport",
+      "room": "TH1",
+      "kind": null
+    },
+    {
+      "start": "09:50",
+      "end": "10:35",
+      "subject": "Französisch",
+      "room": "126",
+      "kind": null
+    },
+    {
+      "start": "10:35",
+      "end": "11:20",
+      "subject": "Mathematik",
+      "room": "126",
+      "kind": null
+    },
+    {
+      "start": "11:35",
+      "end": "12:15",
+      "subject": "Geografie",
+      "room": "126",
+      "kind": null
+    },
+    {
+      "start": "12:15",
+      "end": "13:00",
+      "subject": "Deutsch",
+      "room": "126",
+      "kind": null
+    }
+  ],
+  "Thursday": [
+    {
+      "start": "08:05",
+      "end": "08:50",
+      "subject": "Geschichte",
+      "room": "126",
+      "kind": null
+    },
+    {
+      "start": "08:50",
+      "end": "09:35",
+      "subject": "Englisch",
+      "room": "126",
+      "kind": null
+    },
+    {
+      "start": "09:50",
+      "end": "10:35",
+      "subject": "Religion",
+      "room": "136",
+      "kind": null
+    },
+    {
+      "start": "10:35",
+      "end": "11:20",
+      "subject": "Physik",
+      "room": "PÜ2",
+      "kind": null
+    },
+    {
+      "start": "11:35",
+      "end": "12:15",
+      "subject": "Italienisch",
+      "room": "126",
+      "kind": null
+    },
+    {
+      "start": "12:15",
+      "end": "13:00",
+      "subject": "Wirtschaft",
+      "room": "126",
+      "kind": null
+    },
+    {
+      "start": "13:00",
+      "end": "13:45",
+      "subject": "Pause",
+      "room": "",
+      "kind": null
+    },
+    {
+      "start": "13:45",
+      "end": "14:30",
+      "subject": "Politik",
+      "room": "126",
+      "kind": null
+    }
+  ],
+  "Friday": [
+    {
+      "start": "08:05",
+      "end": "08:50",
+      "subject": "Deutsch",
+      "room": "126",
+      "kind": null
+    },
+    {
+      "start": "08:50",
+      "end": "09:35",
+      "subject": "Deutsch",
+      "room": "126",
+      "kind": null
+    },
+    {
+      "start": "09:50",
+      "end": "10:35",
+      "subject": "Physik",
+      "room": "P2",
+      "kind": null
+    },
+    {
+      "start": "10:35",
+      "end": "11:20",
+      "subject": "Französisch",
+      "room": "126",
+      "kind": null
+    },
+    {
+      "start": "11:35",
+      "end": "12:15",
+      "subject": "Religion",
+      "room": "136",
+      "kind": null
+    },
+    {
+      "start": "12:15",
+      "end": "13:00",
+      "subject": "Mathematik",
+      "room": "126",
+      "kind": null
+    }
+  ]
 }
