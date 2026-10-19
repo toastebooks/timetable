@@ -1,1 +1,292 @@
-{}
+{
+  "Monday": [
+    {
+      "start": "08:05",
+      "end": "08:50",
+      "subject": "Mathematik",
+      "room": "139",
+      "kind": null
+    },
+    {
+      "start": "08:50",
+      "end": "09:35",
+      "subject": "Mathematik",
+      "room": "139",
+      "kind": null
+    },
+    {
+      "start": "09:50",
+      "end": "10:35",
+      "subject": "Englisch",
+      "room": "138",
+      "kind": null
+    },
+    {
+      "start": "10:35",
+      "end": "11:20",
+      "subject": "Englisch",
+      "room": "138",
+      "kind": null
+    },
+    {
+      "start": "11:35",
+      "end": "12:15",
+      "subject": "Geografie",
+      "room": "226",
+      "kind": null
+    },
+    {
+      "start": "12:15",
+      "end": "13:00",
+      "subject": "Fransösisch",
+      "room": "241",
+      "kind": null
+    },
+    {
+      "start": "13:00",
+      "end": "13:45",
+      "subject": "Pause",
+      "room": "",
+      "kind": null
+    },
+    {
+      "start": "13:45",
+      "end": "14:30",
+      "subject": "Religion",
+      "room": "218",
+      "kind": null
+    },
+    {
+      "start": "14:30",
+      "end": "15:15",
+      "subject": "Musik",
+      "room": "M1",
+      "kind": null
+    },
+    {
+      "start": "15:15",
+      "end": "16:00",
+      "subject": "Musik",
+      "room": "M1",
+      "kind": null
+    }
+  ],
+  "Tuesday": [
+    {
+      "start": "08:05",
+      "end": "08:50",
+      "subject": "Englisch",
+      "room": "138",
+      "kind": null
+    },
+    {
+      "start": "08:50",
+      "end": "09:35",
+      "subject": "Englisch",
+      "room": "138",
+      "kind": null
+    },
+    {
+      "start": "09:50",
+      "end": "10:35",
+      "subject": "Mathematik",
+      "room": "239",
+      "kind": null
+    },
+    {
+      "start": "10:35",
+      "end": "11:20",
+      "subject": "Chemie",
+      "room": "C1",
+      "kind": null
+    },
+    {
+      "start": "11:35",
+      "end": "12:15",
+      "subject": "Chemie",
+      "room": "C1",
+      "kind": null
+    },
+    {
+      "start": "12:15",
+      "end": "13:00",
+      "subject": "Pause",
+      "room": "",
+      "kind": null
+    },
+    {
+      "start": "13:00",
+      "end": "13:45",
+      "subject": "Sport",
+      "room": "TH3",
+      "kind": null
+    },
+    {
+      "start": "13:45",
+      "end": "14:30",
+      "subject": "Sport",
+      "room": "TH3",
+      "kind": null
+    }
+  ],
+  "Wednesday": [
+    {
+      "start": "08:05",
+      "end": "08:50",
+      "subject": "Pause",
+      "room": "",
+      "kind": null
+    },
+    {
+      "start": "08:50",
+      "end": "09:35",
+      "subject": "Pause",
+      "room": "",
+      "kind": null
+    },
+    {
+      "start": "09:50",
+      "end": "10:35",
+      "subject": "Mathematik",
+      "room": "239",
+      "kind": null
+    },
+    {
+      "start": "10:35",
+      "end": "11:20",
+      "subject": "Fransösisch",
+      "room": "225",
+      "kind": null
+    },
+    {
+      "start": "11:35",
+      "end": "12:15",
+      "subject": "Politik",
+      "room": "139",
+      "kind": null
+    },
+    {
+      "start": "12:15",
+      "end": "13:00",
+      "subject": "Pause",
+      "room": "",
+      "kind": null
+    },
+    {
+      "start": "13:00",
+      "end": "13:45",
+      "subject": "Vocal Ensemble",
+      "room": "M1",
+      "kind": null
+    },
+    {
+      "start": "13:45",
+      "end": "14:30",
+      "subject": "Vocal Ensemble",
+      "room": "M1",
+      "kind": null
+    },
+    {
+      "start": "14:30",
+      "end": "15:15",
+      "subject": "W-Seminar",
+      "room": "220",
+      "kind": null
+    },
+    {
+      "start": "15:15",
+      "end": "16:00",
+      "subject": "W-Seminar",
+      "room": "220",
+      "kind": null
+    }
+  ],
+  "Thursday": [
+    {
+      "start": "08:05",
+      "end": "08:50",
+      "subject": "Englisch",
+      "room": "138",
+      "kind": null
+    },
+    {
+      "start": "08:50",
+      "end": "09:35",
+      "subject": "Deutsch",
+      "room": "139",
+      "kind": null
+    },
+    {
+      "start": "09:50",
+      "end": "10:35",
+      "subject": "Deutsch",
+      "room": "139",
+      "kind": null
+    },
+    {
+      "start": "10:35",
+      "end": "11:20",
+      "subject": "Fransösisch",
+      "room": "225",
+      "kind": null
+    },
+    {
+      "start": "11:35",
+      "end": "12:15",
+      "subject": "Religion",
+      "room": "218",
+      "kind": null
+    },
+    {
+      "start": "12:15",
+      "end": "13:00",
+      "subject": "Geschichte",
+      "room": "U11",
+      "kind": null
+    }
+  ],
+  "Friday": [
+    {
+      "start": "08:05",
+      "end": "08:50",
+      "subject": "Geschichte",
+      "room": "U11",
+      "kind": null
+    },
+    {
+      "start": "08:50",
+      "end": "09:35",
+      "subject": "Geografie",
+      "room": "226",
+      "kind": null
+    },
+    {
+      "start": "09:50",
+      "end": "10:35",
+      "subject": "Politik",
+      "room": "139",
+      "kind": null
+    },
+    {
+      "start": "10:35",
+      "end": "11:20",
+      "subject": "Chemie",
+      "room": "C1",
+      "kind": null
+    },
+    {
+      "start": "11:35",
+      "end": "12:15",
+      "subject": "Deutsch",
+      "room": "139",
+      "kind": null
+    },
+    {
+      "start": "12:15",
+      "end": "13:00",
+      "subject": "Deutsch",
+      "room": "139",
+      "kind": null
+    }
+  ]
+}
