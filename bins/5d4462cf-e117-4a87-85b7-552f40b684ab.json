@@ -45,7 +45,7 @@
     {
       "start": "13:00",
       "end": "13:45",
-      "subject": "Pause",
+      "subject": "",
       "room": "",
       "kind": null
     },
@@ -110,7 +110,7 @@
     {
       "start": "12:15",
       "end": "13:00",
-      "subject": "Pause",
+      "subject": "",
       "room": "",
       "kind": null
     },
@@ -133,14 +133,14 @@
     {
       "start": "08:05",
       "end": "08:50",
-      "subject": "Pause",
+      "subject": "",
       "room": "",
       "kind": null
     },
     {
       "start": "08:50",
       "end": "09:35",
-      "subject": "Pause",
+      "subject": "",
       "room": "",
       "kind": null
     },
@@ -168,7 +168,7 @@
     {
       "start": "12:15",
       "end": "13:00",
-      "subject": "Pause",
+      "subject": "",
       "room": "",
       "kind": null
     },
