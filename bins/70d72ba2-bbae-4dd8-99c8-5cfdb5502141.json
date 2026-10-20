@@ -17,7 +17,7 @@
     {
       "start": "09:50",
       "end": "10:35",
-      "subject": "Pause",
+      "subject": "",
       "room": "",
       "kind": null
     },
@@ -89,14 +89,14 @@
     {
       "start": "13:00",
       "end": "13:45",
-      "subject": "Pause",
+      "subject": "",
       "room": "",
       "kind": null
     },
     {
       "start": "13:45",
       "end": "14:30",
-      "subject": "Pause",
+      "subject": "",
       "room": "",
       "kind": null
     },
@@ -205,7 +205,7 @@
     {
       "start": "13:00",
       "end": "13:45",
-      "subject": "Pause",
+      "subject": "",
       "room": "",
       "kind": null
     },
