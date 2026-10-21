@@ -4,7 +4,7 @@
       "start": "08:05",
       "end": "08:50",
       "subject": "Physik",
-      "room": "PÃœ1",
+      "room": "PÜ1",
       "kind": null
     },
     {
@@ -76,21 +76,21 @@
       "start": "08:05",
       "end": "08:50",
       "subject": "Chemie",
-      "room": "CÃœ1",
+      "room": "CÜ1",
       "kind": null
     },
     {
       "start": "08:50",
       "end": "09:35",
       "subject": "Chemie",
-      "room": "CÃœ1",
+      "room": "CÜ1",
       "kind": null
     },
     {
       "start": "09:50",
       "end": "10:35",
       "subject": "Physik",
-      "room": "PÃœ1",
+      "room": "PÜ1",
       "kind": null
     },
     {
@@ -148,7 +148,7 @@
       "start": "11:35",
       "end": "12:15",
       "subject": "Physik",
-      "room": "PÃœ1",
+      "room": "PÜ1",
       "kind": null
     },
     {
@@ -236,7 +236,7 @@
       "start": "08:05",
       "end": "08:50",
       "subject": "Chemie",
-      "room": "CÃœ1",
+      "room": "CÜ1",
       "kind": null
     },
     {
