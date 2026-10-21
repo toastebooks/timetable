@@ -4,14 +4,14 @@
       "start": "08:05",
       "end": "08:50",
       "subject": "Biologie",
-      "room": "BÜ",
+      "room": "BÃœ",
       "kind": null
     },
     {
       "start": "08:50",
       "end": "09:35",
       "subject": "Biologie",
-      "room": "BÜ",
+      "room": "BÃœ",
       "kind": null
     },
     {
@@ -38,7 +38,7 @@
     {
       "start": "12:15",
       "end": "13:00",
-      "subject": "Fransösisch",
+      "subject": "FransÃ¶sisch",
       "room": "241",
       "kind": null
     },
@@ -90,7 +90,7 @@
       "start": "09:50",
       "end": "10:35",
       "subject": "Biologie",
-      "room": "BÜ",
+      "room": "BÃœ",
       "kind": null
     },
     {
@@ -154,7 +154,7 @@
     {
       "start": "10:35",
       "end": "11:20",
-      "subject": "Fransösisch",
+      "subject": "FransÃ¶sisch",
       "room": "225",
       "kind": "cancelled"
     },
@@ -226,7 +226,7 @@
     {
       "start": "10:35",
       "end": "11:20",
-      "subject": "Fransösisch",
+      "subject": "FransÃ¶sisch",
       "room": "225",
       "kind": "cancelled"
     },
