@@ -214,21 +214,21 @@
       "end": "09:35",
       "subject": "Deutsch",
       "room": "139",
-      "kind": "cancelled"
+      "kind": null
     },
     {
       "start": "09:50",
       "end": "10:35",
       "subject": "Deutsch",
       "room": "139",
-      "kind": "cancelled"
+      "kind": null
     },
     {
       "start": "10:35",
       "end": "11:20",
       "subject": "Fransösisch",
       "room": "225",
-      "kind": "cancelled"
+      "kind": null
     },
     {
       "start": "11:35",
