@@ -272,7 +272,7 @@
       "end": "13:00",
       "subject": "Wirtschaft",
       "room": "229",
-      "kind": "cancelled"
+      "kind": null
     }
   ]
 }
