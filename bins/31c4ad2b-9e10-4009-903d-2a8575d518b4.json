@@ -19,14 +19,14 @@
       "end": "10:35",
       "subject": "Englisch",
       "room": "138",
-      "kind": null
+      "kind": "cancelled"
     },
     {
       "start": "10:35",
       "end": "11:20",
       "subject": "Englisch",
       "room": "138",
-      "kind": null
+      "kind": "cancelled"
     },
     {
       "start": "11:35",
@@ -77,14 +77,14 @@
       "end": "08:50",
       "subject": "Englisch",
       "room": "138",
-      "kind": null
+      "kind": "cancelled"
     },
     {
       "start": "08:50",
       "end": "09:35",
       "subject": "Englisch",
       "room": "138",
-      "kind": null
+      "kind": "cancelled"
     },
     {
       "start": "09:50",
@@ -119,14 +119,14 @@
       "end": "13:45",
       "subject": "Sport",
       "room": "TH3",
-      "kind": null
+      "kind": "cancelled"
     },
     {
       "start": "13:45",
       "end": "14:30",
       "subject": "Sport",
       "room": "TH3",
-      "kind": null
+      "kind": "cancelled"
     }
   ],
   "Wednesday": [
