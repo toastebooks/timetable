@@ -63,14 +63,14 @@
       "end": "10:35",
       "subject": "Englisch",
       "room": "126",
-      "kind": "cancelled"
+      "kind": null
     },
     {
       "start": "10:35",
       "end": "11:20",
       "subject": "Englisch",
       "room": "126",
-      "kind": "cancelled"
+      "kind": null
     },
     {
       "start": "11:35",
