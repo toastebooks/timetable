@@ -26,7 +26,7 @@
       "end": "11:20",
       "subject": "Italienisch",
       "room": "126",
-      "kind": "cancelled"
+      "kind": null
     },
     {
       "start": "11:35",
@@ -40,7 +40,7 @@
       "end": "13:00",
       "subject": "Geografie",
       "room": "126",
-      "kind": null
+      "kind": "cancelled"
     }
   ],
   "Tuesday": [
@@ -56,21 +56,21 @@
       "end": "09:35",
       "subject": "Mathematik",
       "room": "126",
-      "kind": null
+      "kind": "cancelled"
     },
     {
       "start": "09:50",
       "end": "10:35",
       "subject": "Englisch",
       "room": "126",
-      "kind": null
+      "kind": "cancelled"
     },
     {
       "start": "10:35",
       "end": "11:20",
       "subject": "Englisch",
       "room": "126",
-      "kind": null
+      "kind": "cancelled"
     },
     {
       "start": "11:35",
@@ -105,14 +105,14 @@
       "end": "15:15",
       "subject": "P-Seminar",
       "room": "C1",
-      "kind": null
+      "kind": "cancelled"
     },
     {
       "start": "15:15",
       "end": "16:00",
       "subject": "P-Seminar",
       "room": "C1",
-      "kind": null
+      "kind": "cancelled"
     }
   ],
   "Wednesday": [
