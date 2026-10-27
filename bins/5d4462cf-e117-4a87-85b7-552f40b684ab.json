@@ -191,14 +191,14 @@
       "end": "15:15",
       "subject": "W-Seminar",
       "room": "127",
-      "kind": null
+      "kind": "cancelled"
     },
     {
       "start": "15:15",
       "end": "16:00",
       "subject": "W-Seminar",
       "room": "127",
-      "kind": null
+      "kind": "cancelled"
     }
   ],
   "Thursday": [
