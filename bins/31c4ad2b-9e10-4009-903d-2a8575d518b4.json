@@ -177,14 +177,14 @@
       "end": "13:45",
       "subject": "Vocal Ensemble",
       "room": "M1",
-      "kind": "cancelled"
+      "kind": null
     },
     {
       "start": "13:45",
       "end": "14:30",
       "subject": "Vocal Ensemble",
       "room": "M1",
-      "kind": "cancelled"
+      "kind": null
     },
     {
       "start": "14:30",
