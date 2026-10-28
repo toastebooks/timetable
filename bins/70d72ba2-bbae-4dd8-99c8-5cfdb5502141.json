@@ -149,7 +149,7 @@
       "end": "12:15",
       "subject": "Geografie",
       "room": "126",
-      "kind": null
+      "kind": "cancelled"
     },
     {
       "start": "12:15",
@@ -179,7 +179,7 @@
       "end": "10:35",
       "subject": "Religion",
       "room": "136",
-      "kind": null
+      "kind": "cancelled"
     },
     {
       "start": "10:35",
