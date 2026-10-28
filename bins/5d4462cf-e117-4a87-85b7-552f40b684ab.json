@@ -214,14 +214,14 @@
       "end": "09:35",
       "subject": "Mathematik",
       "room": "138",
-      "kind": "cancelled"
+      "kind": null
     },
     {
       "start": "09:50",
       "end": "10:35",
       "subject": "Deutsch",
       "room": "204",
-      "kind": "cancelled"
+      "kind": null
     },
     {
       "start": "10:35",
