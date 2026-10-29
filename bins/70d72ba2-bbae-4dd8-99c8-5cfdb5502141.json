@@ -251,14 +251,14 @@
       "end": "12:15",
       "subject": "Religion",
       "room": "136",
-      "kind": null
+      "kind": "cancelled"
     },
     {
       "start": "12:15",
       "end": "13:00",
       "subject": "Mathematik",
       "room": "126",
-      "kind": null
+      "kind": "cancelled"
     }
   ]
 }
