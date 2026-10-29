@@ -300,7 +300,7 @@
       "end": "13:00",
       "subject": "Mathematik",
       "room": "138",
-      "kind": null
+      "kind": "cancelled"
     }
   ]
 }
