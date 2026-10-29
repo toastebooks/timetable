@@ -192,7 +192,7 @@
       "start": "08:05",
       "end": "08:50",
       "subject": "Geschichte",
-      "room": "U11",
+      "room": "226",
       "kind": null
     },
     {
@@ -207,7 +207,7 @@
       "end": "10:35",
       "subject": "Englisch",
       "room": "238",
-      "kind": null
+      "kind": "changed"
     },
     {
       "start": "10:35",
@@ -272,7 +272,7 @@
       "end": "13:00",
       "subject": "Wirtschaft",
       "room": "229",
-      "kind": "cancelled"
+      "kind": null
     }
   ]
 }
