@@ -293,7 +293,7 @@
       "end": "13:00",
       "subject": "Deutsch",
       "room": "139",
-      "kind": null
+      "kind": "cancelled"
     }
   ]
 }
