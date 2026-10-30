@@ -5,7 +5,7 @@
       "end": "08:50",
       "subject": "Physik",
       "room": "PÜ1",
-      "kind": "cancelled"
+      "kind": null
     },
     {
       "start": "08:50",
@@ -61,14 +61,14 @@
       "end": "15:15",
       "subject": "W-Seminar",
       "room": "226",
-      "kind": "cancelled"
+      "kind": null
     },
     {
       "start": "15:15",
       "end": "16:00",
       "subject": "W-Seminar",
       "room": "226",
-      "kind": "cancelled"
+      "kind": null
     }
   ],
   "Tuesday": [
