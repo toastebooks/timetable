@@ -12,14 +12,14 @@
       "end": "09:35",
       "subject": "Deutsch",
       "room": "132",
-      "kind": null
+      "kind": "cancelled"
     },
     {
       "start": "09:50",
       "end": "10:35",
       "subject": "Deutsch",
       "room": "132",
-      "kind": null
+      "kind": "cancelled"
     },
     {
       "start": "10:35",
@@ -91,7 +91,7 @@
       "end": "10:35",
       "subject": "Physik",
       "room": "PÜ1",
-      "kind": "cancelled"
+      "kind": null
     },
     {
       "start": "10:35",
