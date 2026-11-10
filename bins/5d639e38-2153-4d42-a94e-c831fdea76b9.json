@@ -149,7 +149,7 @@
       "end": "12:15",
       "subject": "Physik",
       "room": "PÜ1",
-      "kind": "cancelled"
+      "kind": null
     },
     {
       "start": "12:15",
