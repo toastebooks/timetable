@@ -228,7 +228,7 @@
       "end": "11:20",
       "subject": "Deutsch",
       "room": "204",
-      "kind": "cancelled"
+      "kind": null
     },
     {
       "start": "11:35",
@@ -247,7 +247,7 @@
     {
       "start": "13:00",
       "end": "13:45",
-      "subject": "(CAE)",
+      "subject": "CAE",
       "room": "138",
       "kind": null
     },
