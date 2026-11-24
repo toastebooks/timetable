@@ -54,7 +54,7 @@
       "end": "14:30",
       "subject": "Religion",
       "room": "240",
-      "kind": "cancelled"
+      "kind": null
     },
     {
       "start": "14:30",
@@ -133,14 +133,14 @@
     {
       "start": "08:05",
       "end": "08:50",
-      "subject": "",
+      "subject": "-",
       "room": "",
       "kind": null
     },
     {
       "start": "08:50",
       "end": "09:35",
-      "subject": "",
+      "subject": "-",
       "room": "",
       "kind": null
     },
@@ -168,7 +168,7 @@
     {
       "start": "12:15",
       "end": "13:00",
-      "subject": "",
+      "subject": "-",
       "room": "",
       "kind": null
     },
