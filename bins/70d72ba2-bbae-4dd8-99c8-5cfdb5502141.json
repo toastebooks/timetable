@@ -193,7 +193,7 @@
       "end": "12:15",
       "subject": "Italienisch",
       "room": "126",
-      "kind": null
+      "kind": "cancelled"
     },
     {
       "start": "12:15",
@@ -205,7 +205,7 @@
     {
       "start": "13:00",
       "end": "13:45",
-      "subject": "",
+      "subject": "-",
       "room": "",
       "kind": null
     },
