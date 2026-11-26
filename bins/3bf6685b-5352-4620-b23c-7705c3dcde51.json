@@ -207,7 +207,7 @@
       "end": "08:50",
       "subject": "Englisch",
       "room": "138",
-      "kind": null
+      "kind": "cancelled"
     },
     {
       "start": "08:50",
@@ -279,7 +279,7 @@
       "end": "11:20",
       "subject": "Mathematik",
       "room": "139",
-      "kind": null
+      "kind": "changed"
     },
     {
       "start": "11:35",
