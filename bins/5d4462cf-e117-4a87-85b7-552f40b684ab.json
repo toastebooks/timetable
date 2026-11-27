@@ -207,7 +207,7 @@
       "end": "08:50",
       "subject": "Englisch",
       "room": "138",
-      "kind": "cancelled"
+      "kind": null
     },
     {
       "start": "08:50",
@@ -235,14 +235,14 @@
       "end": "12:15",
       "subject": "Religion",
       "room": "240",
-      "kind": "cancelled"
+      "kind": null
     },
     {
       "start": "12:15",
       "end": "13:00",
       "subject": "Geschichte",
       "room": "139",
-      "kind": "cancelled"
+      "kind": null
     },
     {
       "start": "13:00",
@@ -265,7 +265,7 @@
       "end": "08:50",
       "subject": "Geschichte",
       "room": "139",
-      "kind": null
+      "kind": "cancelled"
     },
     {
       "start": "08:50",
